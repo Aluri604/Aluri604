@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Hari Krishna 👋
 
-<!--
-**Aluri604/Aluri604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer | Automation & SDET | API & UI Testing | Open Source Contributor**
 
-Here are some ideas to get you started:
+I'm building my skills in test automation — currently focused on UI and API testing using tools like Playwright, Selenium, and pytest. I'm actively contributing to open-source projects and building my own automation frameworks to sharpen my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on: my first QA automation framework
+🌱 Learning: Playwright, pytest, CI/CD pipelines
+🤝 Open to: QA/SDET roles and open-source collaboration
+📫 Reach me: [www.linkedin.com/in/harikrishnaaluri / krishnanaidu.techie@gmail.com]
+
+---
+
+⭐ Check out my pinned repositories below for my latest work.
